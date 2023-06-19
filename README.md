@@ -19,5 +19,5 @@
 ## TASK : Prediction using Unsupervised ML
 ### Task 3 Problem Statement: Perform Exploratory data analysis on sample super store dataset.
 ### Tool Used:Tableau 
-### Dataset used: http://bit.ly/3kXTox
+### Dataset used: http://bit.ly/3i4rbWI
 ## Brief : In the task of the performing exploratory data analysis on the sample super store data set . where we have to mainly anaylze the weak areas and the make profit through this areas as well . so in this i have created a dashborad for the analysis of the dataset . with the help of which we able to analyze . in this i have mainly kept four filters which can be used on the overall dashboard for the filteration of the particular data required . I have created the 7 sheets which will help me to analyze the data so precisely . i have created the sheets depending on the various aspects which are given in the data set . The aspects like region,discount,sales,profit,city,state,country,segment,category,sub-category are used in this dashboard . with this anaylsis we will be able to get in which area we need to work more . 
